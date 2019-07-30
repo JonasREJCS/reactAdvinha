@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ButtonMenor {
+  height: 3em;
+  border-color: salmon;
+  border-style: dashed;
+}
+
+.ButtonAcertou {
+  height: 5em;
+  border-color: rgb(118, 235, 103);
+  border-style: dotted;
+}
+
+.ButtonMaior {
+  height: 3em;
+  border-color: fuchsia;
+  border-style: dashed;
+}
+
+.ButtonIniciar {
+  height: 3em;
+  border-color: rgb(143, 20, 143);
+  border-style: dashed;
+}

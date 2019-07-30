@@ -1,2 +1,0 @@
-# reactAdvinha
-Created with CodeSandbox
